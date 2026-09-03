@@ -1,5 +1,9 @@
-Munich Airport, Germany (MUC/EDDM) - New CT scanners in Terminal 2, main security
-Porto Airport, Portugal (OPO/LPPR) - New CT scanners for fastlane and crew lane, old scanners in main security
-Memmingen Airport, Germany (FMM/EDJA) - Old scanners in main security
-Wroclaw Airport, Poland (WRO/EPWR) - Old scanners in main security
-Stuttgart Airport, Germany (STR/EDDS) - New CT scanners in Terminal 1 and 3, old scanners in terminal 2 and 4, including fastlane
+| airport | iata | icao | terminal | area | checkpoint | type | ct_scanner | liquids_lifted | source_type | source | observed_at |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Munich | MUC | EDDM | Terminal 2 | | Zentrale Sicherheitskontrolle | main | yes | no | official-security-page | https://... | 2026-09-03 |
+| Munich | MUC | EDDM | Terminal 1 | Modul D, Ebene 5 | Sicherheitskontrolle | main | yes | no | official-security-page | https://... | 2026-09-03 |
+| Stuttgart | STR | EDDS | Terminal 1 | | Sicherheitskontrolle | main | yes | no | personal-observation | own visit | 2026-0X-XX |
+| Stuttgart | STR | EDDS | Terminal 2 | | Sicherheitskontrolle | main | no | no | personal-observation | own visit | 2026-0X-XX |
+| Stuttgart | STR | EDDS | Terminal 2 | | Fastlane | fastlane | no | no | personal-observation | own visit | 2026-0X-XX |
+| Porto | OPO | LPPR | Terminal 1 | | Main security | main | no | no | personal-observation | own visit | 2026-0X-XX |
+| Porto | OPO | LPPR | Terminal 1 | | Fastlane | fastlane | yes | no | personal-observation | own visit | 2026-0X-XX |
