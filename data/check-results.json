@@ -1,0 +1,55 @@
+{
+  "scriptVersion": "0.2.0",
+  "runAt": "2026-09-03T16:50:35.177Z",
+  "results": [
+    {
+      "iata": "STR",
+      "name": "Stuttgart",
+      "url": "https://www.stuttgart-airport.com/de/reisende-besucher/fliegen/rund-ums-fliegen/sicherheitskontrolle",
+      "ok": true,
+      "title": "Sicherheitskontrolle - Flughafen Stuttgart",
+      "length": 762089,
+      "ct": {},
+      "context": {
+        "Handgepäck": 3,
+        "Flüssigkeit": 1
+      },
+      "status": "WARN"
+    },
+    {
+      "iata": "FRA",
+      "name": "Frankfurt",
+      "url": "https://www.frankfurt-airport.com/de/reisevorbereitung/check-in-gepaeck-und-kontrollen/sicherheitskontrolle.html",
+      "ok": true,
+      "title": "Personen- und Handgepäckkontrolle am Flughafen Frankfurt",
+      "length": 134962,
+      "ct": {
+        "CT-Scanner": 1
+      },
+      "context": {
+        "100 ml": 1,
+        "Handgepäck": 16,
+        "Flüssigkeit": 10
+      },
+      "status": "OK"
+    },
+    {
+      "iata": "MUC",
+      "name": "Munich",
+      "url": "https://www.munich-airport.de/sicherheits-und-passkontrolle-3897036",
+      "ok": true,
+      "title": "Sicherheits- und Passkontrolle - Flughafen München",
+      "length": 90318,
+      "ct": {
+        "CT-Scanner": 21,
+        "Computertomograph": 1
+      },
+      "context": {
+        "100 ml": 3,
+        "Handgepäck": 13,
+        "Flüssigkeit": 10
+      },
+      "status": "OK"
+    }
+  ]
+}
