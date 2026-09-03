@@ -9,3 +9,7 @@
 | Stuttgart | STR | EDDS | Terminal 4 | | Sicherheitskontrolle | main | no | no | personal-observation | own visit | 2026-08-11 | Terminal 4 is physically separated from the other terminals. Therefore, passengers departing from Terminal 4 must pass through this security checkpoint. |
 | Porto | OPO | LPPR | Terminal 1 | | Main security | main | no | no | personal-observation | own visit | 2026-08-18 | |
 | Porto | OPO | LPPR | Terminal 1 | | Fastlane | fastlane | yes | no | personal-observation | own visit | 2026-08-18 | |
+| Wrocław | WRO | EPWR | Main Terminal | | Main security | main | no | no | personal-observation | own visit | 2026-09-02 | |
+| Wrocław | WRO | EPWR | Main Terminal | | Fastlane | fastlane | no | no | personal-observation | own visit | 2026-09-02 | |
+| Memmingen | FMM | EDJA | Main Terminal | | Main security | main | no | no | official-security-page | https://www.memmingen-airport.de/fliegen/sicherheits-und-passkontrolle/ | 2026-09-03 | |
+| Memmingen | FMM | EDJA | Main Terminal | | Fastlane | fastlane | no | no | official-security-page | https://www.memmingen-airport.de/fliegen/sicherheits-und-passkontrolle/ | 2026-09-03 | |
