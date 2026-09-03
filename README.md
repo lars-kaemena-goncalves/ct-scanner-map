@@ -8,3 +8,7 @@ After some quick research, I found out that there is no holistic website showcas
 I hope that you enjoy this uni student's side project and find it helpful for yourself.
 
 Safe travels and happy landings!
+
+Status: In development, learning project.
+Planned tech stack: Next.js, TypeScript, PostgreSQL, MapLibre
+Repository structure: docs/SOURCES.md and docs/NOTES.md
